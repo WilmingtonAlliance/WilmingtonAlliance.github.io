@@ -7,4 +7,4 @@ Analyst_Resources
 <br>
 <hr noshade>
 
-!(https://github.com/WilmingtonAlliance/WilmingtonAlliance.github.io/blob/main/images/logo-2.png)
+
