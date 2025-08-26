@@ -1,7 +1,7 @@
 title: Wilmington Alliance
 description: Projects, notes, and quick grabs by Wilmington Alliance (tone)
-url: ""  # set to https://<username>.github.io after publishing
-baseurl: ""
+url: "https://WilmingtonAlliance.github.io"
+baseurl: "https://WilmingtonAlliance/WilmingtonAlliance.github.io "
 
 # Use an official GitHub Pages theme (no build step required)
 remote_theme: pages-themes/cayman@v0.2.0
