@@ -1,0 +1,14 @@
+/* Optional style tweaks layered on top of the theme */
+.page-header {
+  background-image: linear-gradient(120deg, #0a6cff, #06b6d4);
+}
+.main-content h1, .main-content h2, .main-content h3 {
+  border-bottom: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+code, pre {
+  font-size: 0.95rem;
+}

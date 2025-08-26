@@ -1,0 +1,41 @@
+title: Wilmington Alliance
+description: Projects, notes, and quick grabs by Wilmington Alliance (tone)
+url: ""  # set to https://<username>.github.io after publishing
+baseurl: ""
+
+# Use an official GitHub Pages theme (no build step required)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Collections / options
+markdown: kramdown
+highlighter: rouge
+timezone: America/New_York
+
+# Navigation (shown via header includes on the theme)
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: About
+    url: /about/
+
+# Social / org metadata
+org_name: Wilmington Alliance
+org_tagline: Data, Ops, and Cyber for Wilmington
+org_logo: /assets/img/wilma-logo.svg
+
+# Defaults (adds layout to pages and posts automatically)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
